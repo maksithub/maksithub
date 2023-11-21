@@ -1,6 +1,6 @@
 🚀 Full Stack Web Developer | Python, Ruby on Rails, PHP, React, Vue 🚀
 
-Hello, I'm a Full Stack Web Developer with 8 years of professional experience. My skill set includes Python, Ruby on Rails, React, Vue, and PHP and I bring a wealth of technical expertise to your project.
+Hello, My name is Maksym and I'm a Full Stack Web Developer with 8 years of professional experience. My skill set includes Python, Ruby on Rails, React, Vue, and PHP and I bring a wealth of technical expertise to your project.
 
 🔧 Technical Expertise:
 
